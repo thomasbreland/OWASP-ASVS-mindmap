@@ -28,6 +28,7 @@ It has 3 levels for how secure an app needs to be:
 - To give a visual checklist for testing of the three different levels.
 - To make an easier to understand and display of the OWASP ASVS.
 - Color guides for levels 1 through 3.
+- Added NIST scores and Common Weakness Enumeration(CWE) scores where available.
 - Collapsable trees to open or close information.
 - Quick searching with (Ctrl +F)
 - Easy to navigate interface with dragging and scrolling.
