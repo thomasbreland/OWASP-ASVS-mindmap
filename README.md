@@ -33,3 +33,7 @@ It has 3 levels for how secure an app needs to be:
 - Easy to navigate interface with dragging and scrolling.
 - Download the .xmind file and add your own notes, branches.
 - Edit anything to your liking!
+
+  ###### **Helpful links and information**
+  - [OWASP ASVS Page for deeper info and links](https://owasp.org/www-project-developer-guide/draft/security_gap_analysis/guides/application_security_verification_standard/)
+  - [Xmind mindmap app for using the map - it's free!](https://xmind.app/)
